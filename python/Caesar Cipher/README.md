@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 195dfc9413bb4c015af5adc8d6a15dfb_0a6b83ffd57611f180d5525400248c00
-    ReservedCode1: atNvS8Ls1mmjMAPryrGbaHXJbOzC1QedvRN1l0S7HUAFwkd2srChPiob+o7+HKWUhvEW+PiNHi55O8kx7wdnfCjY+13Lb5lKaeXzYI6fjHW66yPJUs112pIgE866WpKs6+DTR9VuZcFtaBe7P6FoTjBGrXs/Y3mFsy45bX35sWxfNJ6NV6mOA7vpPYA=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 195dfc9413bb4c015af5adc8d6a15dfb_0a6b83ffd57611f180d5525400248c00
-    ReservedCode2: atNvS8Ls1mmjMAPryrGbaHXJbOzC1QedvRN1l0S7HUAFwkd2srChPiob+o7+HKWUhvEW+PiNHi55O8kx7wdnfCjY+13Lb5lKaeXzYI6fjHW66yPJUs112pIgE866WpKs6+DTR9VuZcFtaBe7P6FoTjBGrXs/Y3mFsy45bX35sWxfNJ6NV6mOA7vpPYA=
----
-
 # 凱撒加密（Caesar Cipher）GUI 程式 —— 技術說明文件
 
 > 對應原始碼：`sba_02_6b07.py`（共 132 行）
